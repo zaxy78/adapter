@@ -48,6 +48,6 @@ after_failure:
 notifications:
   email:
     recipients:
-      forward-webrtc-github@webrtc.org
+      zaxy78@gmail.com
     on_success: change
     on_failure: always
